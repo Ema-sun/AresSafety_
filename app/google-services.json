@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432549583244",
+    "project_id": "ares-safety",
+    "storage_bucket": "ares-safety.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432549583244:android:b332a877a736f5e8669ea9",
+        "android_client_info": {
+          "package_name": "com.ares.safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIJzFsQ4UrfJKL2jv5mrh7NlAooA1po4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

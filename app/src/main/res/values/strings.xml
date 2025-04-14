@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ares Safety</string>
+
+    <!-- Onboarding Screens -->
+    <string name="onboarding_title_1">Bienvenida a Ares</string>
+    <string name="onboarding_desc_1">Tu app de seguridad personal que te acompaña en todo momento</string>
+    <string name="onboarding_title_2">Contactos de Emergencia</string>
+    <string name="onboarding_desc_2">Configura tus contactos de confianza para enviar alertas rápidas</string>
+    <string name="onboarding_title_3">Botón de Pánico</string>
+    <string name="onboarding_desc_3">Activa alertas rápidas por voz o gestos en situaciones de riesgo</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="password_label">Contraseña</string>
+    <string name="confirm_password_label">Confirmar contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="register_button">Registrarme</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register_now">Regístrate ahora</string>
+    <string name="already_account">¿Ya tienes cuenta?</string>
+    <string name="login_now">Inicia sesión</string>
+    <string name="terms_conditions">Acepto los términos y condiciones</string>
+
+    <!-- Password Validation -->
+    <string name="password_rule_length">Mínimo 8 caracteres</string>
+    <string name="password_rule_uppercase">Al menos 1 mayúscula</string>
+    <string name="password_rule_number">Al menos 1 número</string>
+    <string name="password_strength_weak">Débil</string>
+    <string name="password_strength_medium">Media</string>
+    <string name="password_strength_strong">Fuerte</string>
+
+    <!-- Validation Messages -->
+    <string name="email_invalid">El formato de correo no es válido</string>
+    <string name="password_invalid">La contraseña no cumple con los requisitos mínimos</string>
+    <string name="passwords_not_match">Las contraseñas no coinciden</string>
+    <string name="terms_not_accepted">Debes aceptar los términos y condiciones</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Inicio</string>
+    <string name="emergency_contacts">Contactos de Emergencia</string>
+    <string name="safe_resources">Recursos Seguros</string>
+    <string name="panic_button">Botón de Pánico</string>
+    <string name="shield_mode">Modo Escudo</string>
+
+    <!-- Buttons -->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="continue_text">Continuar</string>
+    <string name="skip">Omitir</string>
+
+    <!-- Splash Screen -->
+    <string name="app_tagline">Tu guardián de seguridad personal</string>
+    <string name="splash_card_title">Seguridad a tu alcance</string>
+    <string name="splash_card_description">Ares te ofrece protección en situaciones de emergencia, alertas de seguridad y conexión con tus contactos de confianza.</string>
+
+    <!-- Campos adicionales para el registro -->
+    <string name="fullname_label">Nombre completo</string>
+    <string name="phone_label">Número de teléfono</string>
+    <string name="birthdate_label">Fecha de nacimiento</string>
+    <string name="address_label">Dirección</string>
+
+    <!-- Mensajes de validación adicionales -->
+    <string name="fullname_required">El nombre completo es obligatorio</string>
+    <string name="phone_invalid">El teléfono debe tener al menos 10 dígitos</string>
+    <string name="select_date">Selecciona una fecha</string>
+
+    <!-- Remember Me -->
+    <string name="remember_me">Recordar mis datos</string>
+</resources>

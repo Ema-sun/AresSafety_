@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Excluir datos sensibles de usuario -->
+        <exclude domain="sharedpref" path="device.xml"/>
+        <exclude domain="sharedpref" path="sensitive_data.xml"/>
+        <exclude domain="sharedpref" path="auth_data.xml"/>
+        <exclude domain="database" path="user_credentials.db"/>
+    </cloud-backup>
+    <device-transfer>
+        <!-- Excluir datos sensibles durante transferencia de dispositivo -->
+        <exclude domain="sharedpref" path="device.xml"/>
+        <exclude domain="sharedpref" path="sensitive_data.xml"/>
+        <exclude domain="sharedpref" path="auth_data.xml"/>
+        <exclude domain="database" path="user_credentials.db"/>
+    </device-transfer>
+</data-extraction-rules>
